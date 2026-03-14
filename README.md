@@ -49,4 +49,4 @@ SMC1000、SMT1000都與 SMT1500的外殼相同，只需將1000系列的內部稍
 
 ## Photos
 
-![battery](images/battery.jpg)
+![拆除原本的限位擋板](images/1.jpg)
